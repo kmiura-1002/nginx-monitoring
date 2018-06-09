@@ -1,6 +1,8 @@
 *.log
 *.log.pos
 
+data/
+
 # System Files
 .DS_Store
 Thumbs.db
