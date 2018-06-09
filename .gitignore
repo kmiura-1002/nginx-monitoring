@@ -1,4 +1,5 @@
-./nginx/log
+*.log
+*.log.pos
 
 # System Files
 .DS_Store
